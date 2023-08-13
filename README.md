@@ -2,7 +2,7 @@
 Roadmap di Sviluppo:
 Fase 1: Sviluppo e Lancio Iniziale
 - Sviluppo del contratto ViesteToken Matic (ViesteTokenPoly) e verifica del codice.
-- Lancio della piattaforma ViesteToken.crypto come punto di riferimento per la community.
+- Lancio della piattaforma ViesteToken.com e Viestetoken.website e Vicome punto di riferimento per la community.
 - Creazione dei canali ufficiali di comunicazione su Twitter, Instagram, TikTok, Facebook e YouTube 
 per coinvolgere e informare la community.
 - Consolidamento della community tramite la creazione di un gruppo Telegram dedicato e 
